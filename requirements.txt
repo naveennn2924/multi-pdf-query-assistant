@@ -1,0 +1,9 @@
+faiss-cpu
+langchain-huggingface
+huggingface_hub
+pypdf2
+langchain-community
+streamlit  
+#pip install InstructorEmbedding sentence_transformers
+asyncio
+fitz
